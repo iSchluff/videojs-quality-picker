@@ -1,4 +1,4 @@
-Copyright 2016 Streamroot, Corp.
+Copyright 2019 Streamroot, Corp., Anton Schubert
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

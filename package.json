@@ -1,8 +1,8 @@
 {
-  "name": "videojs-quality-picker",
+  "name": "@fem-ev/videojs-quality-picker",
   "author": {
-    "name": "StreamRoot",
-    "email": "contact@streamroot.io"
+    "name": "Anton Schubert",
+    "email": "anton.schubert@fem.tu-ilmenau.de"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
