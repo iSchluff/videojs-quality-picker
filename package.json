@@ -1,5 +1,5 @@
 {
-  "name": "@fem-ev/videojs-quality-picker",
+  "name": "@ischluff/videojs-quality-picker",
   "author": {
     "name": "Anton Schubert",
     "email": "anton.schubert@fem.tu-ilmenau.de"
@@ -7,7 +7,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "0.0.3",
+  "version": "0.0.3-1",
+  "license": "Apache-2.0",
   "main": "dist/videojs-quality-picker.cjs.js",
   "browser": "dist/videojs-quality-picker.umd.js",
   "module": "dist/videojs-quality-picker.esm.js",
