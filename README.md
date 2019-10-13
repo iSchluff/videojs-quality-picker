@@ -10,7 +10,9 @@ NOTE: In this project, quality can refer to:
 
 Plugin works with video.js 5.0 and newer.
 
-Use `grunt build̀`to build the dist scripts.
+Use `npm run build` to build the dist scripts
+
+or install with `npm install @ischluff/videojs-quality-picker`
 
 ## Make a tech / source handler compatible
 
